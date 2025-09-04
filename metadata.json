@@ -1,0 +1,5 @@
+{
+  "name": "Bioinformatics Research Assistant",
+  "description": "An AI-powered bioinformatics research assistant named Dr. Rhesus that can search protein databases, visualize structures, perform in-silico mutations, and conduct literature searches.",
+  "requestFramePermissions": []
+}
